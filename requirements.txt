@@ -1,0 +1,5 @@
+treepoem
+Pillow
+python-dotenv
+pymongo
+Flask
